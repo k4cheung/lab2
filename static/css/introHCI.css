@@ -14,13 +14,19 @@
 body {
      border: 1px dotted gray;
      padding: 20px;
+	 background-color: #F0F0F0;
 }
 
 p {
 	font-variant: small-caps;
+	font-style:italic;
 }
 
-
+.container {
+  border-style:solid;
+  border-width:5px;
+  border-color: black;
+} 
 
 .jumbotron {
 	position: relative;
